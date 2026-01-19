@@ -362,7 +362,7 @@ pre.w-code-block code {
   font-size: 12px !important;
   line-height: 14px !important;
   text-decoration: none !important;
-  display: inline-block !important;
+  display: none !important;
   position: fixed !important;
   inset: auto 12px 12px auto !important;
   transform: none !important;
@@ -373,7 +373,7 @@ pre.w-code-block code {
   visibility: unset !important;
   opacity: 1 !important;
   vertical-align: middle !important;
-  display: inline-block !important;
+  display: none !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -3118,4 +3118,5 @@ body {
 
 #w-node-a0cc1676-cdc8-4082-20d9-6ee114fceea5-5e93dc2d, #w-node-a0cc1676-cdc8-4082-20d9-6ee114fceeac-5e93dc2d, #w-node-a0cc1676-cdc8-4082-20d9-6ee114fceeb3-5e93dc2d {
   grid-area: span 1 / span 1 / span 1 / span 1;
+
 }
