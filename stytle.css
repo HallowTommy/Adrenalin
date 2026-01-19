@@ -342,6 +342,7 @@ pre.w-code-block code {
   word-spacing: unset;
   word-wrap: unset;
   transition: unset;
+  display: none !important;
 }
 
 .w-webflow-badge {
@@ -3118,4 +3119,5 @@ body {
 
 #w-node-a0cc1676-cdc8-4082-20d9-6ee114fceea5-5e93dc2d, #w-node-a0cc1676-cdc8-4082-20d9-6ee114fceeac-5e93dc2d, #w-node-a0cc1676-cdc8-4082-20d9-6ee114fceeb3-5e93dc2d {
   grid-area: span 1 / span 1 / span 1 / span 1;
+
 }
