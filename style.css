@@ -342,7 +342,6 @@ pre.w-code-block code {
   word-spacing: unset;
   word-wrap: unset;
   transition: unset;
-  display: none !important;
 }
 
 .w-webflow-badge {
@@ -363,7 +362,7 @@ pre.w-code-block code {
   font-size: 12px !important;
   line-height: 14px !important;
   text-decoration: none !important;
-  display: inline-block !important;
+  display: none !important;
   position: fixed !important;
   inset: auto 12px 12px auto !important;
   transform: none !important;
@@ -374,7 +373,7 @@ pre.w-code-block code {
   visibility: unset !important;
   opacity: 1 !important;
   vertical-align: middle !important;
-  display: inline-block !important;
+  display: none !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -3121,3 +3120,4 @@ body {
   grid-area: span 1 / span 1 / span 1 / span 1;
 
 }
+
